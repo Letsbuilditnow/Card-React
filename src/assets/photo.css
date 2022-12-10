@@ -1,7 +1,11 @@
 *{
     margin: 0px;
+    padding:0px;
 }
 div img{
 height: 217px;
 width:217px;
+}.photo-container{
+    
+    height: 217px;
 }

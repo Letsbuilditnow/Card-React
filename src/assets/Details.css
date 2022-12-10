@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    height:399px;
+    width:217px;
+    background-color:#1A1B21;
+    padding: 0px;
+    text-align: center;
+   
+}.buttons{
+    background-color: aliceblue;
+    margin: 0px;
+    padding: 0px;
+}

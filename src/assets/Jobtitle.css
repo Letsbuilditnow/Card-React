@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+
+}.job-list-container{
+    display: flex;
+    align-items: center;
+    margin:0px;
+    width:100%;
+justify-content: center;
+}
+.job-title{
+   
+
+}.job-title {
+padding:0px;
+margin:0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 15px;
+text-align: center;
+
+color: #F3BF99;
+margin-top:6px;
+
+
+}
