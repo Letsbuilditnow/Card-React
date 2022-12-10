@@ -4,7 +4,7 @@
 }
 .container{
     height:399px;
-    width:217px;
+    width:317px;
     background-color:#1A1B21;
     padding: 0px;
     text-align: center;
@@ -13,4 +13,10 @@
     background-color: aliceblue;
     margin: 0px;
     padding: 0px;
+}.buttons-section{
+    /* background-color: burlywood; */
+    margin-top:15px;
+}.about-section{
+    margin-left: 27px;
+    margin-right:34px;
 }
